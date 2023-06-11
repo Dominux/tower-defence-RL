@@ -2,4 +2,4 @@
 
 The repository contains everything it needs to provide such a bot, such as:
 
-1. [The game library](https://github.com/Dominux/tower-defence-RL/blob/main/gamelib) to use to provide this bot with convinient minimalistic tower defence game interface
+1. [The game library](https://github.com/Dominux/tower-defence-RL/blob/main/game_lib) to use to provide this bot with convinient minimalistic tower defence game interface
